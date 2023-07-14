@@ -1,7 +1,7 @@
 ### Olá, pessoal! Este é o meu portifólio de projetos pessoais e de cursos 👋
 
 ###### Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas. Anteriormente à faculdade, participei da seleção da empresa Softex para o curso de formação acelerada em front-end, onde sprendi tecnologias Web. Por meio deste curso pude conhecer mais da área e despertou o meu interesse em seguir adiante na busca por mais conhecimentos. 
+Sou estudante de Análise e Desenvolvimento de Sistemas. Anteriormente à faculdade, participei da seleção da empresa Softex para o curso de formação acelerada em front-end, onde aprendi tecnologias Web. Por meio deste curso pude conhecer mais da área e despertou o meu interesse em seguir adiante na busca por mais conhecimentos. 
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraLeimig&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
