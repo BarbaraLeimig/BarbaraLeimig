@@ -20,7 +20,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Anteriormente à faculd
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarbaraLeimig&repo=Projeto_Interface_ShortVideosApp)](https://github.com/BarbaraLeimig/Projeto_Interface_ShortVideosApp)
 
 ### Linguagens Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraLeimig&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraLeimig&layout=compact)
 
 ### Contato
 [<img src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/barbaraleimig/)
