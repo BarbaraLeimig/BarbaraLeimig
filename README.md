@@ -4,7 +4,7 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas. Anteriormente à faculdade, participei da seleção da empresa Softex para o curso de formação acelerada em front-end, onde aprendi tecnologias Web. Por meio deste curso pude conhecer mais da área e despertou o meu interesse em seguir adiante na busca por mais conhecimentos. 
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraLeimig&theme=radical&show_icons=true))]([https://github.com/anuraghazra/github-readme-stats](https://github.com/BarbaraLeimig))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraLeimig&theme=radical&show_icons=true))]([https://github.com/anuraghazra/github-readme-stats](https://github.com/BarbaraLeimig)
 
 ### Conhecimentos Adquiridos
 - <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
