@@ -17,7 +17,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Anteriormente à faculd
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarbaraLeimig&repo=dsmovie)](https://github.com/BarbaraLeimig/dsmovie)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarbaraLeimig&repo=Projeto_Interface_ShortVideosApp&show_icons=true&theme=radical)](https://github.com/BarbaraLeimig/Projeto_Interface_ShortVideosApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarbaraLeimig&repo=Projeto_Interface_ShortVideosApp)](https://github.com/BarbaraLeimig/Projeto_Interface_ShortVideosApp)
 
 ### Linguagens Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraLeimig&layout=compact&theme=radical)
