@@ -16,8 +16,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Anteriormente à faculd
 - <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarbaraLeimig&repo=dsmovie)](https://github.com/BarbaraLeimig/dsmovie)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarbaraLeimig&repo=Projeto_Interface_ShortVideosApp)](https://github.com/BarbaraLeimig/Projeto_Interface_ShortVideosApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarbaraLeimig&repo=dsmovie?theme=radical)](https://github.com/BarbaraLeimig/dsmovie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarbaraLeimig&repo=Projeto_Interface_ShortVideosApp?theme=radical)](https://github.com/BarbaraLeimig/Projeto_Interface_ShortVideosApp)
 
 ### Linguagens Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraLeimig&layout=compact)
