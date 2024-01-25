@@ -1,19 +1,24 @@
 ### Olá, pessoal! Este é o meu portifólio de projetos pessoais e de cursos 👋
 
 ###### Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas. Anteriormente à faculdade, participei da seleção da empresa Softex para o curso de formação acelerada em front-end, onde aprendi tecnologias Web. Por meio deste curso pude conhecer mais da área e despertou o meu interesse em seguir adiante na busca por mais conhecimentos. Atualmente meus estudos são voltados para o back-end e para a área de Dados, que me fascinaram. 
+Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios e aprendizados. Estou cursando Análise e Desenvolvimento de Sistemas, mas a minha jornada começou antes, quando fui selecionada pela Softex Pernambuco para um curso intensivo de front-end. Lá, eu me encantei pelas possibilidades da Web e decidi me aprofundar nesse universo.  Hoje, foco meus estudos em back-end e Dados, duas áreas que me fascinam.
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraLeimig&theme=radical&show_icons=true)](https://github.com/BarbaraLeimig)
 
 ### Conhecimentos Adquiridos
-- <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
-- <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'>
-- <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-- <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
-- <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-- <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-- <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarbaraLeimig&repo=dsmovie&theme=radical)](https://github.com/BarbaraLeimig/dsmovie)
